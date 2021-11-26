@@ -1,0 +1,3 @@
+Cambios desde mi maquina al servidor 
+
+Estoy haciendo un archivo .txt para actualizar mi servidor desde mi maquina local y sirva como evidencia de como clonar desde mi repositorio en mi maquina local a mi servidor git hub
